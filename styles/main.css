@@ -3,7 +3,9 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
 }
-
+.shadow{
+	text-shadow: 2px 2px #800000;
+}
 
 /* the styles for the header */
 header img {
@@ -50,7 +52,4 @@ main img{
 /* the styles for the footer */
 footer{
 	text-align: center;
-}
-a::shadow{
-	text-shadow: #800000 ;
 }
